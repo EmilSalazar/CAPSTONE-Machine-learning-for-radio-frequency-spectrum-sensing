@@ -4,8 +4,8 @@ The purpose of this folder is to test the model saved as a .h5 file. We test the
 
 > [!NOTE]
 > **Before running:**
-> Ensure you have a .csv file with your data in the folder; one is already provided here. Also, update the code to ensure the path to your data is correct.
-> For TensorFlow, ensure that you are using Python 3.8 - 3.11 to properly run the code.
+> Make sure you have a .csv file with your data in the folder, in this case one is already provided. Also, make sure to update the code so that you have the correct path for your data.
+> For tensorflow make sure to that you have python 3.8 - 3.11 in order to properly run the code. 
 
 
 
