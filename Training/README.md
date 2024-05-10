@@ -15,6 +15,7 @@ To run in terminal:
 > **Before running:**
 > Add a .csv file into this directory. I wasn't able to add the one we used to train it with because the file was to large to push to github.
 > You can access all the data from the shared google drive. [Google Drive](https://drive.google.com/drive/folders/1tLfBgnrtY6c0fsncIxt-pNyf--VIiYB5?usp=drive_link)
+> Also, make sure to update the code so that you have the correct path for your data.
 
 
 
